@@ -1,0 +1,19 @@
+{
+  "name": "fullstack3",
+  "version": "1.0.0",
+  "description": "HY:n kurssin FullStackOpen osa 3:n tehtävät",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niko Raulas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
