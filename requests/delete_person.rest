@@ -1,1 +1,1 @@
-DELETE https://fullstack3-wispy-flower-1843.fly.dev/api/persons/4
+DELETE http://localhost:3001/api/persons/67016c5b172cbda58461a943

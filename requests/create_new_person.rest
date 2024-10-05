@@ -1,7 +1,7 @@
-POST https://fullstack3-wispy-flower-1843.fly.dev/api/persons
+POST http://localhost:3001/api/persons
 Content-Type: application/json
 
 {
-    "name":"Aku Ankka",
-    "number":"020"
+    "name":"Maija Meikäläinen",
+    "number":"040-12345678901"
 }
